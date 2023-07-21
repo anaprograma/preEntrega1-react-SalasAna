@@ -6,7 +6,7 @@ function App() {
   return (
     <main className="main">
       <Navbar />
-      <ItemListContainer />
+      <ItemListContainer greatings="Hola estas en la mejor pagina con ideas para regalos !!" />
     </main>
   );
 }
